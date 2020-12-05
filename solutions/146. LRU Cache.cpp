@@ -24,3 +24,13 @@ public:
         if(mp.find(key) != mp.end() ){
             mp.erase(key);
             keys.remove(key);
+        }
+        if(keys.size() == capacity){
+           int temp = keys.front();
+            keys.pop_front();
+            mp.erase(temp);
+        }
+        mp[key] = value;
+        keys.push_back(key);
+    }
+};
