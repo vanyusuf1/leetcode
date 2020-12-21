@@ -21,3 +21,4 @@
 |1306|[ Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[C++](./solutions/1306.%20Jump%20Game%20III.cpp)|68 ms|
 |1373|[ Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)|[C++](./solutions/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree.cpp)|204 ms|
 |1579|[ Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)|[Java](./solutions/1579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.java)|15 ms|
+|1675|[ Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|[C++](./solutions/1675.%20Minimize%20Deviation%20in%20Array.cpp)|864 ms|
