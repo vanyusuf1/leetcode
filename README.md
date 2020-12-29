@@ -16,6 +16,7 @@
 |224|[ Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[C++](./solutions/224.%20Basic%20Calculator.cpp)||
 |236|[ Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[C++](./solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp)|20 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./solutions/242.%20Valid%20Anagram.java)|1 ms|
+|279|[ Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[C++](./solutions/279.%20Perfect%20Squares.cpp)||
 |300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](./solutions/300.%20Longest%20Increasing%20Subsequence.cpp)|280 ms|
 |345|[ Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Java](./solutions/345.%20Reverse%20Vowels%20of%20a%20String.java)|2 ms|
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.cpp)|12 ms|
