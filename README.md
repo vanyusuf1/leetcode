@@ -34,5 +34,6 @@
 |1373|[ Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)|[C++](./solutions/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree.cpp)|204 ms|
 |1579|[ Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)|[Java](./solutions/1579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.java)|15 ms|
 |1675|[ Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|[C++](./solutions/1675.%20Minimize%20Deviation%20in%20Array.cpp)|864 ms|
+|1688|[ Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[C++](./solutions/1688.%20Count%20of%20Matches%20in%20Tournament.cpp)|0 ms|
 |1689|[ Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[C++](./solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.cpp)|44 ms|
 |1694|[ Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[C++](./solutions/1694.%20Reformat%20Phone%20Number.cpp)|0 ms|
