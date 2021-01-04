@@ -30,6 +30,7 @@
 |713|[ Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[C++](./solutions/713.%20Subarray%20Product%20Less%20Than%20K.cpp)|256 ms|
 |780|[ Reaching Points](https://leetcode.com/problems/reaching-points/)|[C++](./solutions/780.%20Reaching%20Points.cpp)|0 ms|
 |811|[ Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[C++](./solutions/811.%20Subdomain%20Visit%20Count.cpp)||
+|894|[ All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)|[C++](./solutions/894.%20All%20Possible%20Full%20Binary%20Trees.cpp)||
 |901|[ Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[C++](./solutions/901.%20Online%20Stock%20Span.cpp)|404 ms|
 |1219|[ Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Java](./solutions/1219.%20Path%20with%20Maximum%20Gold.java)|15 ms|
 |1290|[ Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[C++](./solutions/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp)|4 ms|
