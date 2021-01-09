@@ -29,6 +29,7 @@
 |647|[ Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./solutions/647.%20Palindromic%20Substrings.cpp)|308 ms|
 |713|[ Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[C++](./solutions/713.%20Subarray%20Product%20Less%20Than%20K.cpp)|256 ms|
 |780|[ Reaching Points](https://leetcode.com/problems/reaching-points/)|[C++](./solutions/780.%20Reaching%20Points.cpp)|0 ms|
+|785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[C++](./solutions/785.%20Is%20Graph%20Bipartite%3F.cpp)||
 |811|[ Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[C++](./solutions/811.%20Subdomain%20Visit%20Count.cpp)||
 |886|[ Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[C++](./solutions/886.%20Possible%20Bipartition.cpp)||
 |894|[ All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)|[C++](./solutions/894.%20All%20Possible%20Full%20Binary%20Trees.cpp)||
