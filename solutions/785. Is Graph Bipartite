@@ -1,0 +1,40 @@
+class Solution {
+public:
+    bool checkbipartite(vector<vector<int>>& graph, vector<int>& visited, int i) {
+        queue<pair<int, int>>q;
+        q.push(make_pair(i, 0));
+​
+        while (!q.empty()) {
+            int parent = q.front().first;
+            int index = q.front().second;
+            q.pop();
+​
+            if (visited[parent] != -1) {
+                if (visited[parent] != index)
+                    return false;
+            }
+            else {
+                visited[parent] = index;
+                for (auto j : graph[parent]) {
+                    if (visited[j] == -1)
+                        q.push(make_pair(j, index + 1));
+                }
+            }
+        }
+        return true;
+    }
+​
+    bool isBipartite(vector<vector<int>>& graph) {
+        int v = graph.size();
+        vector<int> visited(v, -1);
+​
+        for (int i = 0; i < v; i++) {
+            if (visited[i] == -1) {
+                bool isbipartite = checkbipartite(graph, visited, i);
+                if (isbipartite == false)
+                    return false;
+            }
+        }
+        return true;
+    }
+};
