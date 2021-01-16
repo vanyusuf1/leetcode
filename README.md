@@ -39,6 +39,7 @@
 |912|[ Sort an Array](https://leetcode.com/problems/sort-an-array/)|[C++](./solutions/912.%20Sort%20an%20Array.cpp)|44 ms|
 |917|[ Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[C++](./solutions/917.%20Reverse%20Only%20Letters.cpp)||
 |922|[ Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[C++](./solutions/922.%20Sort%20Array%20By%20Parity%20II.cpp)||
+|925|[ Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[C++](./solutions/925.%20Long%20Pressed%20Name.cpp)||
 |926|[ Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[C++](./solutions/926.%20Flip%20String%20to%20Monotone%20Increasing.cpp)|4 ms|
 |1219|[ Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Java](./solutions/1219.%20Path%20with%20Maximum%20Gold.java)|15 ms|
 |1290|[ Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[C++](./solutions/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp)|4 ms|
