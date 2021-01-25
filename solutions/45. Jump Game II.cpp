@@ -6,8 +6,8 @@ public:
         int maxReach=0;
         int jumps=0;
         for(int i=0;i<n;i++){
-            maxReach=max(maxReach, nums[i]+1);
-            if(curReach<=i){
+            maxReach=max(maxReach, nums[i]+i);      
+            if(i>=curReach){
                 jumps++;
                 curReach=maxReach;
                 maxReach=0;
@@ -18,3 +18,7 @@ public:
         
     }
 };
+​
+​
+​
+​
