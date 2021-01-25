@@ -6,6 +6,7 @@
 |8|[ String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](./solutions/8.%20String%20to%20Integer%20(atoi).java)|2 ms|
 |9|[ Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](./solutions/9.%20Palindrome%20Number.java)|7 ms|
 |10|[ Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Java](./solutions/10.%20Regular%20Expression%20Matching.java)|5 ms|
+|55|[ Jump Game](https://leetcode.com/problems/jump-game/)|[C++](./solutions/55.%20Jump%20Game.cpp)|8 ms|
 |62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](./solutions/62.%20Unique%20Paths.java)|0 ms|
 |91|[ Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](./solutions/91.%20Decode%20Ways.cpp)|0 ms|
 |113|[ Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[C++](./solutions/113.%20Path%20Sum%20II.cpp)|8 ms|
